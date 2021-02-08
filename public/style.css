@@ -1,0 +1,38 @@
+body{
+    margin: 10px 60px;
+}
+button{
+    display:blaock;
+    margin: 10px 0;
+}
+
+h1,h2,h3,h4, ol{
+    margin:0;
+}
+a{
+    text-decoration:none;
+    color: black;
+}
+p{
+    margin: 5px;
+}
+textarea{
+    width:80%;
+    height:80px;
+
+}
+.comments{
+    margin:40px 0;
+}
+.bottom, .top-comment {
+    display: flex;
+    color: grey;
+    font-size: 12px;
+}
+.row{
+    padding:5px 0;
+}
+.top-bar{
+    background-color:olive;
+    padding: 0 40px;
+}
